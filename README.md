@@ -27,5 +27,5 @@ The EuroSAT notebooks use [TorchSat](https://github.com/sshuair/torchsat), a lib
 
 [<img src="play_video.png">](https://youtu.be/kNFY6ff996E)
 Updated XAI viewer tool demo:
-[img src="npz.PNG"]
-[<img src="pickle.PNG"]
+[img src="npz.PNG"](npz.PNG)
+[<img src="pickle.PNG"](pickle.PNG)
